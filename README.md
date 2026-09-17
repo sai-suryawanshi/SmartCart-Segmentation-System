@@ -1,5 +1,3 @@
-# CreditWise Loan System
-
 # SmartCart Segmentation System
 
 ## Project Overview
